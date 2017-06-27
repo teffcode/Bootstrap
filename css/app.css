@@ -1,0 +1,17 @@
+body{
+  font-family: 'Montez', cursive;
+  font-family: 'Dancing Script', cursive;
+}
+
+#header-container{
+  background-color: #DC95DC;
+  color: white;
+}
+
+.row{
+	border: 1px solid red;
+}
+
+.column{
+	border: 1px solid blue;
+}
